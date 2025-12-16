@@ -1,6 +1,6 @@
 # ScrapeDentalCouncil
 
-This program scrapes a webpage to get the practitiones registered.
+This program scrapes a webpage to get the practitioners registered.
 I used three following libraries:
 
 1. BeautifulSoup
